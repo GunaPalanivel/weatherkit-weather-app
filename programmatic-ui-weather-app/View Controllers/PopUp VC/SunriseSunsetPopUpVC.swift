@@ -1,4 +1,3 @@
-////
 ////  SunriseSunsetPopUpVC.swift
 ////  weatherkit-weather-app
 ////
